@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway:wght@100;200;300;400&display=swap');
 /*
+Branding colors
 color1 #DBB13B Gold Metallic
 color2 #F71735 Imperial Red
 color3 #F1E4F3 Pale Purple Pantone
@@ -14,7 +15,6 @@ body {
 	font-size: 16px;
 	font-weight: 400;
 	color: #0A0E29;
-
 }
 h1 {
 	font-family: 'Cinzel', serif;
@@ -48,12 +48,7 @@ a:focus {
 	color: #DBB13B;
 	transition: color 0.8s ease;
 }
-@media (max-width: 991px) {
-	h1 { font-size: 32px; }
-	h2 { font-size: 27px; }
-	h3 { font-size: 25px; }
-	h4 { font-size: 22px; }
-}
+
 /*---------------- Header Row ----------------*/
 .header-row {
 	margin-left: 0;
@@ -64,7 +59,7 @@ a:focus {
 	margin-right: 0;
 }
 
-/*---------------- Navigation ----------------*/
+/*---------------- Navigation module ----------------*/
 .navbar {
 	width: 90%;
 	left: 5%;
@@ -79,10 +74,6 @@ a:focus {
 	height: 100px;
 	padding: 45px 100px 10px;
 	z-index: 2;
-}
-
-@media (max-width: 576px) {
-
 }
 .navbar .collapse ul > li {
 	margin-right: 0!important;
@@ -120,7 +111,12 @@ a:focus {
 	padding: 30px 0;
 }
 
-/*---------------- Hero Image ----------------*/
+/*---------------- Container ----------------*/
+.container-fluid {
+	padding: 0;
+}
+
+/*---------------- Hero Image module ----------------*/
 .hero-image {
 	height: 60vh;
 	overflow: hidden;
@@ -153,7 +149,7 @@ img {
 	text-align: center;
 }
 
-/*---------------- About Me ----------------*/
+/*---------------- About Me module ----------------*/
 
 .section-title {
 	padding: 20px 6%;
@@ -182,7 +178,6 @@ img {
 	justify-items: center;
 	position: relative;
 }
-
 .images-links-3-col-single-col a {
 	display: flex;
 	flex-direction: row;
@@ -191,7 +186,6 @@ img {
 	position: relative;
 	border: 1px solid #2D325A;
 }
-
 .images-links-3-col-single-col a span {
 	position: absolute;
 	height: 40%;
@@ -211,7 +205,7 @@ img {
 	transition: color 0.8s ease;
 }
 
-/*----------------Portfolio ----------------*/
+/*---------------- Portfolio module ----------------*/
 .portfolio-frames {
 	clear: both;
 	margin-bottom: 30px;
@@ -246,7 +240,7 @@ img {
 	height: 100%;
 
 }
-/*---------------- Work History ----------------*/
+/*---------------- Work History module ----------------*/
 .work-history {
 	clear: both;
 	margin-bottom: 30px;
@@ -281,7 +275,7 @@ img {
 	padding: 20px;
 }
 
-/*---------------- Contact Form ----------------*/
+/*---------------- Contact Form module ----------------*/
 .contact-form {
 	clear: both;
 }
@@ -323,7 +317,6 @@ button.btn:active {
 }
 
 /*---------------- Programming languages module ----------------*/
-.programming-languages {  }
 
 .programming-languages-icons {
 	width: 70%;
@@ -348,12 +341,10 @@ button.btn:active {
 	filter: grayscale(0);
 	transition: filter 0.8s ease;
 }
-
 .languages-title {
 	width: 100%;
 	text-align: center;
 }
-
 .languages-logos {
 	width: 100%;
 	height: 100%;
@@ -363,7 +354,6 @@ button.btn:active {
 	transition: filter 0.8s ease;
 	position: relative;
 }
-
 .programming-languages-icons-skills {
 	display: flex;
 	flex-direction: column;
@@ -371,10 +361,9 @@ button.btn:active {
 .programming-languages-icons-skills .col {
 	width: 100%;
 	height: 100px;
-
 }
 
-/*---------------- Skills ----------------*/
+/*---------------- Skills module ----------------*/
 .col-skills {
 	width: 100%;
 	height: 100px;
@@ -409,9 +398,6 @@ button.btn:active {
 	font-weight: 400;
 	font-size: 16px;
 }
-.skills-bar {
-
-}
 .programming-languages-icons-skills .col a {
 	width: 100%;
 	height: 100%;
@@ -435,9 +421,32 @@ button.btn:active {
 	background-color: #2D325A;
 }
 
-/*------------------------------------*/
-.container-fluid {
+/*---------------- Social links module ----------------*/
+.social-links-container {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.social-links-container ul {
+	margin: 0;
 	padding: 0;
+}
+.social-links-container ul li {
+	margin-left: 20px;
+	margin-right: 20px!important;
+}
+.social-links-container ul li a {
+	color: #2D325A;
+}
+.social-links-container ul li a:hover {
+	color: #DBB13B;
+}
+.social-links-container ul li a i {
+	font-size: 40px;
+}
+
+/*---------------- Footer Barcode module ----------------*/
+.barcode-image-col {
+	float: right;
 }
 
 /*---------------- Footer ----------------*/
@@ -473,36 +482,13 @@ footer {
 	transition: all 0.8s ease;
 }
 
-/*---------------- Social links ----------------*/
-.social-links-container {
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-.social-links-container ul {
-	margin: 0;
-	padding: 0;
-}
-.social-links-container ul li {
-	margin-left: 20px;
-	margin-right: 20px!important;
-}
-.social-links-container ul li a {
-	color: #2D325A;
-}
-.social-links-container ul li a:hover {
-	color: #DBB13B;
-}
-.social-links-container ul li a i {
-	font-size: 40px;
-}
-
-/*---------------- Footer Barcode ----------------*/
-.barcode-image-col {
-	float: right;
-}
-
-
+/*---------------- Media Query for 991px ----------------*/
 @media (max-width: 991px) {
+
+	h1 { font-size: 32px; }
+	h2 { font-size: 27px; }
+	h3 { font-size: 25px; }
+	h4 { font-size: 22px; }
 
 	.navbar {
 		align-items: center;
@@ -519,7 +505,6 @@ footer {
 	.languages-logos {
 		padding: 23%;
 	}
-
 	.col-sm-4 {
 		width: 33%;
 		padding-right: 2px;
@@ -544,12 +529,12 @@ footer {
 	}
 }
 
+/*---------------- Media Query for 576px ----------------*/
 @media (max-width: 576px) {
 
 	h1 {
 		font-size: 27px;
 	}
-
 	.top-logo {
 		width: 70%;
 		text-align: left;
@@ -569,7 +554,6 @@ footer {
 		background-color: rgba(255, 255, 255, 0.8);
 		box-shadow: 0 2px 4px rgb(0, 0, 0, 0.5);
 	}
-
 	.social-links-container ul li {
 		padding-bottom: 20px;
 	}
@@ -582,6 +566,7 @@ footer {
 	}
 }
 
+/*---------------- Media Query for 450px ----------------*/
 @media (max-width: 450px) {
 	.top-logo {
 		padding: 20px 20px;
@@ -596,3 +581,4 @@ footer {
 		font-size: 25px;
 	}
 }
+
