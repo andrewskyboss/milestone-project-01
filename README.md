@@ -3,7 +3,7 @@
 # milestone-project-01 User Centric Front-End Development / Portfolio
 Milestone Project 01  Andrew Cybossky Portfolio
 - Screen shot of logo/navigation of mobile deployed site
-- Include link to deployed project with one one line explanation of project
+- [Link to a deployed project](https://andrewskyboss.github.io/milestone-project-01/index.html) Andrew Cybossky Portfolio website.
 
 ## Author
 Andrej Cybovskij
@@ -30,11 +30,11 @@ All those features makes it highly efficient to achieve main target to be hired.
 
 ### Project Goals
 The goals of this project are:
-Create a front-end web application based on the principles of user experience design, accessibility and responsivity.
-Develop and implement a static front-end web application using HTML and CSS.
-Create documentation to maximize code structure and organization  maintainability in the future.
-Use version control software to maintain and share code with other developers in a easiest way.
-Test and deploy web application to a Cloud platform for easy access from different sources.
+- Create a front-end web application based on the principles of user experience design, accessibility and responsivity.
+- Develop and implement a static front-end web application using HTML and CSS.
+- Create documentation to maximize code structure and organization  maintainability in the future.
+- Use version control software to maintain and share code with other developers in a easiest way.
+- Test and deploy web application to a Cloud platform for easy access from different sources.
 
 #### User Goals
 Write goals form the perspective of each user group of your website. Common types of users are:
