@@ -96,7 +96,11 @@ Explain why you used certain icons and images on your site
 - special hover state effects
 
 ### Wireframes
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- This section is also where you would share links to any wireframes, mockups, diagrams etc. 
+that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), 
+or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- [Link to a Wireframes for a Desctop view](assets/documents/A.Cybovskij-Desctop.pdf)
+- [Link to a Wireframes for Tablet and Mobile views ](assets/documents/A.Cybovskij-Tablet-mobile.pdf)
 
 ### Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
