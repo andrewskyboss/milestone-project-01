@@ -10,7 +10,7 @@ Andrej Cybovskij
 
 ## Project Overview
 - Include picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
-[picture of site](assets/images/screengrab-01.PNG)
+![picture of site](assets/images/screengrab-01.PNG)
 - The project idea is to create a personal portfolio website (for Andrej Cybovskij). 
 	This websites goal is to represent Autor for potential Employers and Recruiters in a best light and get hired. The main users of this website are a business people and they representatives. The websites include of the following features: 
 	Educational overview and work experience. 
