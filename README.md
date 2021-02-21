@@ -2,8 +2,8 @@
 
 # milestone-project-01 User Centric Front-End Development / Portfolio
 Milestone Project 01  Andrew Cybossky Portfolio
-- Screen shot of logo/navigation of mobile deployed site
-- [Link to a deployed project](https://andrewskyboss.github.io/milestone-project-01/index.html) Andrew Cybossky Portfolio website.
+- ![Screen shot of logo/navigation of website](assets/images/logo-navigation.PNG)
+- [Link to a deployed project](https://andrewskyboss.github.io/milestone-project-01/index.html)  Andrew Cybossky Portfolio website.
 
 ## Author
 Andrej Cybovskij
