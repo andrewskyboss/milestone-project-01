@@ -21,14 +21,16 @@ Andrej Cybovskij
 	- Provides embedded portfolio examples and contact information for recruiters
 
 - The main users of this website are a business people and their representatives. 
-Website design is clean and clear for Business people. Clear structure makes it quick accessible and easy to use. 
-All those features makes it highly efficient to achieve main target to be hired.
+- Website design is clean and clear for Business people. 
+- Clear structure makes it quick accessible and easy to use.
+- All those features makes it highly efficient to achieve main target to be hired.
 
 - [Link to a deployed website](https://andrewskyboss.github.io/milestone-project-01/index.html)
 
 ## UX
 
 ### Project Goals
+
 The goals of this project are:
 - Create a front-end web application based on the principles of user experience design, accessibility and responsivity.
 - Develop and implement a static front-end web application using HTML and CSS.
@@ -37,6 +39,8 @@ The goals of this project are:
 - Test and deploy web application to a Cloud platform for easy access from different sources.
 
 #### User Goals
+
+- The main users of this website are a business people and their representatives.
 Write goals form the perspective of each user group of your website. Common types of users are:
 - new customers
 - existing customers
@@ -45,10 +49,17 @@ Write goals form the perspective of each user group of your website. Common type
 - unauthenticated user
 
 #### Developer Goals
-List out the goals as a developer you hope to achieve by making this website.
+- Create a front-end web application based on the principles of user experience design, accessibility and responsivity.
+- Develop and implement a static front-end web application using HTML and CSS.
+- Create project documentation.
+- Use version control software to maintain and share code with other developers.
+- Test and deploy web application to a Cloud platform.
+- Demonstrate my abilities and knowledge i gained during my course.
+- Get experience in a project development.
 
 #### Website Owner Goals
-List out any goals a website owner would have for this website. You may not develop them, but investors would want to know how they could make money.
+- List out any goals a website owner would have for this website. 
+You may not develop them, but investors would want to know how they could make money.
 
 ### User Stories
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
