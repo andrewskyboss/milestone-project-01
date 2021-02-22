@@ -81,7 +81,7 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 - Combination of those colors should create emotional trust and future potential. Those feelings and website content should help the Author to achieve his goals to be hired.
 
 - Color palete was created using [Coolors resources](https://coolors.co)
-- ![color scheme](assets/documents/A.Cybossky_color_scheme.png)
+- ![color scheme](assets/documents/ACybossky_color_scheme.png)
 
 #### Typography
 - discuss font size, font types for headers vs buttons vs general text
