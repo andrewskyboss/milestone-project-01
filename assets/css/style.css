@@ -419,8 +419,14 @@ button.btn:hover,button.btn:active {
 .social-links-container ul li a:hover {
 	color: #DBB13B;
 }
+.social-links-container ul li a:hover i {
+	transform: scale(1.2);
+	transition: all 0.8s ease;
+}
 .social-links-container ul li a i {
-	font-size: 40px;
+    font-size: 40px;
+    transform: scale(1);
+	transition: all 0.8s ease;
 }
 /*---------------- Footer Barcode module ----------------*/
 .barcode-image-col {
