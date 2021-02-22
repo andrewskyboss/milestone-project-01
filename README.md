@@ -78,7 +78,7 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 - Secondary color is Imperial Red (#F71735). As a shade of red, gives us feeling of energy, passion and action. It’s important to show a creativity and energy for a potential employer. 
 - Accent color is Gold Metallic (#DBB13B). As a shade of yellow should create a feeling of success, achievement and triumph. 
 - Pale Purple Pantone (#F1E4F3) color is a neutral and combines all colors together
-Combination of those colors should create emotional trust and future potential. Those feelings and website content should help the Author to achieve his goals to be hired.
+- Combination of those colors should create emotional trust and future potential. Those feelings and website content should help the Author to achieve his goals to be hired.
 
 - Color palete was created using [Coolors resources](https://coolors.co)
 - ![color scheme](assets/documents/A.Cybossky_color_scheme.png)
