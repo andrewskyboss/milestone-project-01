@@ -505,7 +505,11 @@ footer {
 	}
 	.work-content p {
 		text-align: center;
-	}
+    }
+    .center-form {
+        margin: 50px auto;
+        max-width: 70%;
+    }
 }
 /*---------------- Media Query for 576px ----------------*/
 @media (max-width: 576px) {
@@ -540,7 +544,12 @@ footer {
 	.navbar-light .navbar-toggler {
 		border-color: transparent;
 		z-index: 2;
-	}
+    }
+    .center-form {
+        margin: 50px auto;
+        max-width: 90%;
+    }
+    
 }
 /*---------------- Media Query for 450px ----------------*/
 @media (max-width: 450px) {
