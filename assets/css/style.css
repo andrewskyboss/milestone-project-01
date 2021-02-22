@@ -75,7 +75,7 @@ a:hover,a:active,a:focus {
 }
 .navbar .collapse ul > li > a {
 	color: #2D325A!important;
-	padding: 12px 20px!important;
+	padding: 20px!important;
 	transition: all 0.8s ease;
 }
 .navbar .collapse ul > li > a:hover {
@@ -541,7 +541,10 @@ footer {
 	.navbar {
 		margin-top: -65px;
 		padding-left: 70%;
-	}
+    }
+    .navbar .collapse ul > li > a {
+        padding: 12px 20px!important;
+    }
 	.navbar-collapse.collapse.show {
 		position: absolute;
 		z-index: 1;
