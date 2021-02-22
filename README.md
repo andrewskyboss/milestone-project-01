@@ -84,8 +84,11 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 - ![color scheme](assets/documents/ACybossky_color_scheme.png)
 
 #### Typography
+- Raleway as an elegant sans-serif typeface family font, were usin in this project.
 - discuss font size, font types for headers vs buttons vs general text
-- include screen shots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+- include screen shots of fonts used and links to the appropriate website ex)
+- [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
+ 
 
 #### Images
 Explain why you used certain icons and images on your site
