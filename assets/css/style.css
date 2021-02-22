@@ -123,7 +123,8 @@ a:hover,a:active,a:focus {
 	position: relative;
 	margin-left: 5%;
 	margin-right: 5%;
-	margin-bottom: 30px;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 20%);
 }
 img {
 	width: 100%;
