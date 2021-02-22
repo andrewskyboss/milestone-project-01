@@ -179,7 +179,8 @@ img {
 	justify-content: center;
 	justify-items: center;
 	position: relative;
-	border: 1px solid #2D325A;
+    border: 1px solid #2D325A;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 20%);
 }
 .images-links-3-col-single-col a span {
 	position: absolute;
