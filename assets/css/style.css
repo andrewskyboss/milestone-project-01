@@ -1,14 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway:wght@100;200;300;400&display=swap');
-/*
-Branding colors
-color1 #DBB13B Gold Metallic
-color2 #F71735 Imperial Red
-color3 #F1E4F3 Pale Purple Pantone
-color4 #2D325A Space Cadet
-color5 #0A0E29 Oxford Blue
-
-*/
-
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway:wght@100;
+200;
+300;
+400&display=swap');
+/*Branding colorscolor1 #DBB13B Gold Metalliccolor2 #F71735 Imperial Redcolor3 #F1E4F3 Pale Purple Pantonecolor4 #2D325A Space Cadetcolor5 #0A0E29 Oxford Blue*/
 /*---------------- Body ----------------*/
 body {
 	font-family: 'Raleway', sans-serif;
@@ -41,14 +35,11 @@ a {
 	color: #F71735;
 	transition: color 0.8s ease;
 }
-a:hover,
-a:active,
-a:focus {
+a:hover,a:active,a:focus {
 	text-decoration: none;
 	color: #DBB13B;
 	transition: color 0.8s ease;
 }
-
 /*---------------- Header Row ----------------*/
 .header-row {
 	margin-left: 0;
@@ -58,7 +49,6 @@ a:focus {
 	margin-left: 0;
 	margin-right: 0;
 }
-
 /*---------------- Navigation module ----------------*/
 .navbar {
 	width: 90%;
@@ -88,7 +78,6 @@ a:focus {
 	background-color: #F1E4F3;
 	transition: all 0.8s ease;
 }
-
 /*---------------- Section ----------------*/
 .main-content {
 	padding-left: 5%!important;
@@ -110,12 +99,10 @@ a:focus {
 	float: left;
 	padding: 30px 0;
 }
-
 /*---------------- Container ----------------*/
 .container-fluid {
 	padding: 0;
 }
-
 /*---------------- Hero Image module ----------------*/
 .hero-image {
 	height: 60vh;
@@ -148,9 +135,7 @@ img {
 .hero-image-title h2 {
 	text-align: center;
 }
-
 /*---------------- About Me module ----------------*/
-
 .section-title {
 	padding: 20px 6%;
 	margin-left: 5%;
@@ -204,21 +189,18 @@ img {
 	color: #F71735;
 	transition: color 0.8s ease;
 }
-
 /*---------------- Portfolio module ----------------*/
 .portfolio-frames {
 	clear: both;
 	margin-bottom: 30px;
-    margin-left: 0;
-    margin-right: 0;
+	margin-left: 0;
+	margin-right: 0;
 }
-
 .portfolio-frames-2-col {
 	margin-left: 5%;
 	margin-right: 5%;
 	width: 100%;
 }
-
 .portfolio-2-col-single-col {
 	height: 60vh;
 	width: 100%;
@@ -238,7 +220,6 @@ img {
 .portfolio-embeded {
 	width: 100%;
 	height: 100%;
-
 }
 /*---------------- Work History module ----------------*/
 .work-history {
@@ -260,7 +241,6 @@ img {
 	flex-direction: row;
 	border-bottom: 0px solid transparent;
 }
-
 .work-history-item:nth-child(odd) {
 	background-color: #F1E4F3;
 }
@@ -274,7 +254,6 @@ img {
 .work-content {
 	padding: 20px;
 }
-
 /*---------------- Contact Form module ----------------*/
 .contact-form {
 	clear: both;
@@ -289,15 +268,13 @@ img {
 	margin: 50px auto;
 	max-width: 50%;
 }
-.contact-form-body input,
-.contact-form-body textarea {
+.contact-form-body input,.contact-form-body textarea {
 	margin-top: 20px;
 	border-radius: 0;
 }
 .form-row {
 	margin-top: 20px;
 }
-
 button.btn {
 	border-radius: 0;
 	background-color: #F71735;
@@ -307,17 +284,14 @@ button.btn {
 	padding: 10px 30px;
 	transition: background-color 0.8s ease;
 }
-button.btn:hover,
-button.btn:active {
+button.btn:hover,button.btn:active {
 	background-color: #DBB13B;
 	transition: background-color 0.8s ease;
 }
 .form-control::placeholder {
 	color: #2D325A;
 }
-
 /*---------------- Programming languages module ----------------*/
-
 .programming-languages-icons {
 	width: 70%;
 	margin-left: 15%;
@@ -362,7 +336,6 @@ button.btn:active {
 	width: 100%;
 	height: 100px;
 }
-
 /*---------------- Skills module ----------------*/
 .col-skills {
 	width: 100%;
@@ -420,7 +393,6 @@ button.btn:active {
 .progress-bar {
 	background-color: #2D325A;
 }
-
 /*---------------- Social links module ----------------*/
 .social-links-container {
 	margin-top: 20px;
@@ -443,12 +415,10 @@ button.btn:active {
 .social-links-container ul li a i {
 	font-size: 40px;
 }
-
 /*---------------- Footer Barcode module ----------------*/
 .barcode-image-col {
 	float: right;
 }
-
 /*---------------- Footer ----------------*/
 footer {
 	margin-top: 50px;
@@ -481,15 +451,20 @@ footer {
 	background-color: #F1E4F3;
 	transition: all 0.8s ease;
 }
-
 /*---------------- Media Query for 991px ----------------*/
 @media (max-width: 991px) {
-
-	h1 { font-size: 32px; }
-	h2 { font-size: 27px; }
-	h3 { font-size: 25px; }
-	h4 { font-size: 22px; }
-
+	h1 {
+		font-size: 32px;
+	}
+	h2 {
+		font-size: 27px;
+	}
+	h3 {
+		font-size: 25px;
+	}
+	h4 {
+		font-size: 22px;
+	}
 	.navbar {
 		align-items: center;
 	}
@@ -528,10 +503,8 @@ footer {
 		text-align: center;
 	}
 }
-
 /*---------------- Media Query for 576px ----------------*/
 @media (max-width: 576px) {
-
 	h1 {
 		font-size: 27px;
 	}
@@ -565,7 +538,6 @@ footer {
 		z-index: 2;
 	}
 }
-
 /*---------------- Media Query for 450px ----------------*/
 @media (max-width: 450px) {
 	.top-logo {
@@ -581,4 +553,3 @@ footer {
 		font-size: 25px;
 	}
 }
-
