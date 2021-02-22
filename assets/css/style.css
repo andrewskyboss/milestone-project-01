@@ -1,8 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway:wght@100;
-200;
-300;
-400&display=swap');
-/*Branding colorscolor1 #DBB13B Gold Metalliccolor2 #F71735 Imperial Redcolor3 #F1E4F3 Pale Purple Pantonecolor4 #2D325A Space Cadetcolor5 #0A0E29 Oxford Blue*/
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway:wght@100;200;300;400&display=swap');
+/*
+Branding colors
+color1 #DBB13B Gold Metallic
+color2 #F71735 Imperial Red
+color3 #F1E4F3 Pale Purple Pantone
+color4 #2D325A Space Cadet
+color5 #0A0E29 Oxford Blue
+*/
 /*---------------- Body ----------------*/
 body {
 	font-family: 'Raleway', sans-serif;
