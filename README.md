@@ -70,7 +70,16 @@ Your site is most likely geared to a certain audience and your design choices sh
 You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
 
 #### Colors
-- Discuss your color pallet
+The main inspiration of the colors started from the Oxford Blue color. 
+By the [empower-yourself-with-color-psychology.com website](https://www.empower-yourself-with-color-psychology.com/blue-in-business.html#:~:text=Blue%20is%20the%20most%20universally,indicates%20confidence%2C%20reliability%20and%20responsibility.) 
+"Blue is the most universally favored color of all and therefore the safest to use. It relates to trust, honesty and dependability, therefore helping to build customer loyalty. Blue indicates confidence, reliability and responsibility"
+- As a major color, the Oxford Blue (#0A0E29) is responsible to create a trust feeling from an employer to a potential employee. 
+- Space Cadet (#2D325A) is a same blue group color and gives a variety and lighter shade. 
+- Secondary color is Imperial Red (#F71735). As a shade of red, gives us feeling of energy, passion and action. It’s important to show a creativity and energy for a potential employer. 
+- Accent color is Gold Metallic (#DBB13B). As a shade of yellow should create a feeling of success, achievement and triumph. 
+- Pale Purple Pantone (#F1E4F3) color is a neutral and combines all colors together
+Combination of those colors should create emotional trust and future potential. Those feelings and website content should help the Author to achieve his goals to be hired.
+
 - Color palete was created using [Coolors resources](https://coolors.co)
 - ![color scheme](assets/documents/A.Cybossky_color_scheme.png)
 
