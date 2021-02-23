@@ -57,8 +57,13 @@ Write goals form the perspective of each user group of your website. Common type
 - Get experience in a project development.
 
 #### Website Owner Goals
-- List out any goals a website owner would have for this website. 
-You may not develop them, but investors would want to know how they could make money.
+Main goals of website owner are:
+- To get a dream job.
+- Represent himself to an potentional Employeers.
+- Represent all needed information for a potential Employeers in a highly accessible way.
+- To make information more structural.
+- Showcase existing portfolios.
+- Represent contact information to an employeers or customers.
 
 ### User Stories
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
