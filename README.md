@@ -138,3 +138,24 @@ Don't forget your 404 error page.
 Use this section to discuss plans for additional features to be implemented in the future:
 If you end up not developing some of the features you hoped to implement, you can include those in this section.
 
+## Technologies Used
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- If you included a js file that isn't your own, add it here.
+- If you included a css file that isn't your own, add it here.
+- Common 3rd party technologies to list:
+- wirefames
+- favicons
+- color palette images
+- fonts
+- CSS Frameworks
+- markdown tables
+- markdown table of contents
+
+### Programing Languages
+- [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
+- [CSS](https://www.w3schools.com/w3css/default.asp) The project uses **CSS** to define DOM appearance.
+- [HTML](https://www.w3schools.com/html/default.asp) The project uses **HTML** to define DOM elements.
+- [Markdown](https://www.markdownguide.org/) Documentation within the readme was generated using markdown
+
+### Frameworks and Extensions
+- [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
