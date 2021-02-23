@@ -42,11 +42,10 @@ The goals of this project are:
 
 - The main users of this website are a business people and their representatives.
 Write goals form the perspective of each user group of your website. Common types of users are:
-- new customers
-- existing customers
-- admins
-- logged in user
-- unauthenticated user
+- New customer or unauthenticate user main goal is to get all information they need as quick as possible.
+- Existing customers knows website structure and could wondering for any updates and new information.
+- Admin goal is to get access to the back end information to manage it.
+- This website does not proposing any login system.
 
 #### Developer Goals
 - Create a front-end web application based on the principles of user experience design, accessibility and responsivity.
