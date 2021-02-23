@@ -95,7 +95,11 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
  
 
 #### Images
-Explain why you used certain icons and images on your site
+
+- On website were used variety of images with open laptop screen. Open laptop looks like an open to opportunity. City views like a coding structure, organised and working properly.
+- As well were used Font Awesome libraries icons to display all major social media. Icons takes small amount off space, but looks very presentable and modern.
+- As well were used Programming languages svg icons to visualize them.
+
 
 #### Design Elements
 List of elements used on website: 
