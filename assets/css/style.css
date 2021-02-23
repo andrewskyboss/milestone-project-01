@@ -45,6 +45,10 @@ a:hover,a:active,a:focus {
 	color: #DBB13B;
 	transition: color 0.8s ease;
 }
+img {
+    width: 100%;
+    height: auto;
+}
 /*---------------- Header Row ----------------*/
 .header-row {
 	margin-left: 0;
