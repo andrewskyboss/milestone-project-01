@@ -98,25 +98,18 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 Explain why you used certain icons and images on your site
 
 #### Design Elements
-- list out the type of elements you want to use on your site, this will help you  when choosing a framework and goes hand in hand when doing the wireframes. If you did something out of the ordinary, or think something was particularly clever, add a sentence and a screen shot or reference the file the code or css is in.
+List of elements used on website: 
 - top menu (desktop navigation)
-- sidebar menu (mobile navigation)
 - footer
-- containers/cards
+- containers/section
 - buttons
 - text input
 - textarea inputs
-- dropdowns
-- modals/layers
-- check boxes
-- switches
-- accordions
-- pagination
-- datepickers
-- maps
-- images
-- tooltips
+- progress bar
+- dropdowns (mobile navigation)
+- images (.png, .jpg, .svg)
 - icons
+- iframes
 
 #### Animations and Transitions
 - discuss any special animations or transitions you've included
