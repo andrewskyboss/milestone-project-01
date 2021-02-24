@@ -210,11 +210,15 @@ If you end up not developing some of the features you hoped to implement, you ca
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 - If you included a js file that isn't your own, add it here.
 - If you included a css file that isn't your own, add it here.
-- Common 3rd party technologies to list:
-- wirefames
-- favicons
-- color palette images
-- fonts
+
+- 3rd party technologies to list:
+- [wirefames by Balsamiq](https://balsamiq.com/wireframes/)
+- [Color palette resources](https://coolors.co)
+- [Images were taken from the Megapixl resources](https://www.megapixl.com)
+- Icons [Font Awesome](https://fontawesome.com/v4.7.0/)
+- Google Fonts:
+  - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
+  - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
 - CSS Frameworks
 - markdown tables
 - markdown table of contents
@@ -230,7 +234,20 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-Testing were done on 
+Testing was done for the following devices:
+- Windows Desktop, 
+- Windows Laptop, 
+- IPad
+- Android mobile phone.
+
+Following bugs were found:
+
+- Portfolio page, when click the logo (name) the page is redirected to a non-existing page instead of staying on the page it’s on. (404 page) - Fixed
+- Portfolio page, were found four JavaScript console errors. – There are four iframes to Adobe portfolios. Errors are from the Adobe server. Not fixed
+- 
+
+
+
 
 ## Deployment
 
