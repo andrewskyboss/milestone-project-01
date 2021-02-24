@@ -258,6 +258,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 
 ## Credits
-- Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for support 
+
+### My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help and invaluable advices.
+
 
 
