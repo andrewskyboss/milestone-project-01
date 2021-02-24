@@ -89,7 +89,7 @@ This project was built based on UX concerns: website should be useful, usable an
 - **Scope plane** - represents features we want to include into design. This project features are: 
   - Header and footer navigation.
   - Intuitive design.
-  - Short description on every page.
+  - Short description on top of the page.
   - Contact form with CTA, to be in touch with website's owner.
   - Social media icons
   - Biography (Study and work history)
@@ -175,15 +175,18 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) s
 - [Link to a Wireframes for Tablet and Mobile views ](assets/documents/A.Cybovskij-Tablet-mobile.pdf)
 
 ### Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-  - Header and footer navigation.
-  - Intuitive design.
-  - Short description on every page.
-  - Contact form with CTA, to be in touch with website's owner.
-  - Social media icons
-  - Biography (Study and work history)
-  - Images as a visual representatives.
-  - Embedded portfolios.
+
+The project has implemented following features:
+
+  - Header and footer navigations. Implemented in full. And working properly
+  - Intuitive design. All website’s elements are known by any users. They knows exactly what to do on any of them. Navigations are in traditional places. Social icons are presented by their standard logos. Design is clear and understandable.
+  - Short description on top of the page. Implemented. Exceptions are Contact and Experience pages
+  - Contact form with CTA, to be in touch with website's owner. Implemented. Connected to the Code Institute server for demonstration purpose only.
+  - Social media icons are at the bottom of every page
+  - Biography (Study and work history). Presented in two pages: Profile for studies and Experience for Work experience. Customer can choose what is more important for him.
+  - Images as a visual representatives. Used relevant images to demonstrate content.
+  - Embedded portfolios. Used iframes to embed work examples
+
 
 #### Implemented Features
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
