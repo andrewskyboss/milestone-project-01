@@ -128,8 +128,10 @@ List of elements used on website:
 - iframes
 
 #### Animations and Transitions
-- discuss any special animations or transitions you've included
-- special hover state effects
+- Project has fade in animation for h1 and h2 titles. Its draws attention to them. As well it's shows on About Me modules as a hover animation. 
+- Hover state is used for all icons and logos. On hover icons are changing color and have a scale transformation.
+- Programming languages logos have a grayscale filter. On hover grayscale filter is equal to zero and images have their original color. As well Logos have scale transformation.
+- As well hover effect is added to top, footer navigation elements and Contact button. All those elements are changing background color.
 
 ### Wireframes
 - This section is also where you would share links to any wireframes, mockups, diagrams etc. 
