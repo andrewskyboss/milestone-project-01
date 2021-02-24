@@ -9,6 +9,38 @@ Milestone Project 01  Andrew Cybossky Portfolio
 Andrej Cybovskij
 
 ## Project Overview
+
+- [milestone-project-01 User Centric Front-End Development / Portfolio](#milestone-project-01-user-centric-front-end-development---portfolio)
+  * [Author](#author)
+  * [Project Overview](#project-overview)
+  * [UX](#ux)
+    + [Project Goals](#project-goals)
+      - [User Goals](#user-goals)
+      - [Developer Goals](#developer-goals)
+      - [Website Owner Goals](#website-owner-goals)
+    + [User Stories](#user-stories)
+    + [Design Choices](#design-choices)
+      - [Colors](#colors)
+      - [Typography](#typography)
+      - [Images](#images)
+      - [Design Elements](#design-elements)
+      - [Animations and Transitions](#animations-and-transitions)
+    + [Wireframes](#wireframes)
+    + [Features](#features)
+      - [Implemented Features](#implemented-features)
+      - [Future Features](#future-features)
+  * [Technologies Used](#technologies-used)
+    + [Programing Languages](#programing-languages)
+    + [Frameworks and Extensions](#frameworks-and-extensions)
+  * [Testing](#testing)
+    + [Testing was done for the following devices:](#testing-was-done-for-the-following-devices-)
+    + [Following bugs were found:](#following-bugs-were-found-)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 - Below is a picture of site that shows it in responsive states. 
 [link to check a website to be responsive](http://ami.responsivedesign.is)
 ![picture of site](assets/images/screengrab-01.PNG)
@@ -259,7 +291,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Credits
 
-### My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help and invaluable advices.
+- My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help and invaluable advices.
 
 
 
