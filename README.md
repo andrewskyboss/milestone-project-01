@@ -176,7 +176,7 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) s
 
 ### Features
 
-The project has implemented following features:
+Following features will be used in this project:
 
   - Header and footer navigations. Implemented in full. And working properly
   - Intuitive design. All website’s elements are known by any users. They knows exactly what to do on any of them. Navigations are in traditional places. Social icons are presented by their standard logos. Design is clear and understandable.
@@ -189,9 +189,18 @@ The project has implemented following features:
 
 
 #### Implemented Features
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-It's easiest to break this section down into the header, footer, layer, and each page of your website. Call out any differences for mobile vs desktop presentations, include a screenshot.
-Don't forget your 404 error page.
+
+The project has implemented following features:
+  - Header and footer navigation.
+  - Intuitive design.
+  - Short description on top of the page.
+  - Contact form with CTA, to be in touch with website's owner.
+  - Social media icons
+  - Biography (Study and work history)
+  - Images as a visual representatives.
+  - Embedded portfolios.
+
+Header navigation is different on desktop and mobile versions.
 
 #### Future Features
 Use this section to discuss plans for additional features to be implemented in the future:
