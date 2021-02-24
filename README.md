@@ -85,6 +85,14 @@ This project was built based on UX concerns: website should be useful, usable an
   - Images as a visual representatives.
   - Embedded portfolios.
 
+- **Structure plane** - Usually users are visiting website to get just for some king of content. Information is logically structured into main parts. All parts placed to the navigation.
+
+- **Skeleton plane** - part for mock-ups:
+  - Wireframes links are presented below:
+  - [Link to a Wireframes for a Desctop view](assets/documents/A.Cybovskij-Desctop.pdf)
+  - [Link to a Wireframes for Tablet and Mobile views ](assets/documents/A.Cybovskij-Tablet-mobile.pdf)
+
+- **Surface plane** - final part of design procedure. The project build in a Classical style. Cinzel and Rylaway fonts gives easy shapes. Shades of Blue, Red and gold are acceptable by the business people as a pleasant and trust. Images are very clear and simple. First look to the website gives a feeling about website owner. Elegant fade in animation gives lightweight and elegance feeling.
 
 #### Colors
 The main inspiration of the colors started from the Oxford Blue color. 
