@@ -161,12 +161,15 @@ List of elements used on website:
 - iframes
 
 #### Animations and Transitions
+
 - Project has fade in animation for h1 and h2 titles. Its draws attention to them. As well it's shows on About Me modules as a hover animation. 
 - Hover state is used for all icons and logos. On hover icons are changing color and have a scale transformation.
 - Programming languages logos have a grayscale filter. On hover grayscale filter is equal to zero and images have their original color. As well Logos have scale transformation.
 - As well hover effect is added to top, footer navigation elements and Contact button. All those elements are changing background color.
 
 ### Wireframes
+
+The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) software. It was a part of Scope Plane of design process.
 - Wireframes links are presented below:
 - [Link to a Wireframes for a Desctop view](assets/documents/A.Cybovskij-Desctop.pdf)
 - [Link to a Wireframes for Tablet and Mobile views ](assets/documents/A.Cybovskij-Tablet-mobile.pdf)
