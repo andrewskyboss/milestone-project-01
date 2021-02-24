@@ -71,7 +71,9 @@ As a user type, I want to perform an action, so that I can achieve a goal.
 
 ### Design Choices
 Your site is most likely geared to a certain audience and your design choices should tie into them. Let the assessors know your thought process.
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
+
+This project was built based on UX concerns: website should be useful, usable and valuable for the customer and owner. As well to get a positive user experience, were used process of five planes of user experience:
+- **Strategy**  – represents business goals. The main website owner goals were presented above. Just a reminder, that main user of this website will be a business people. Whole design should be kept simple in classical style with some bright elements (in this project Imperial Red color plays as bright element). Design should be plain and modern. Information should be well structured and easy to access. Main parts of the information are placed into top navigation. No more than 3 clicks to get information about website owner. Download button is placed in a footer navigation to get CV printable copy.
 
 #### Colors
 The main inspiration of the colors started from the Oxford Blue color. 
