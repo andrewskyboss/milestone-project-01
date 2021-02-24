@@ -66,8 +66,20 @@ Main goals of website owner are:
 - Represent contact information to an employeers or customers.
 
 ### User Stories
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-As a user type, I want to perform an action, so that I can achieve a goal.
+
+- As an Employer I want to have:
+  1. The ability to easily find potential employee past Experience information.
+  2. The ability to easily find potential employee Education information.
+  3. The ability to easily find potential employee Portfolio or work examples.
+  4. The ability to easily find potential employee Contact information.
+  5. The ability to easily find potential employee access to Social links.
+  6. The ability to easily download potential employee CV and Cover Letter.
+
+- As a Freelancer's Customer I want:
+  1. The ability to easily find potential freelancer past Experience information.
+  2. The ability to easily find potential freelancer Portfolio or work examples.
+  3. The ability to easily find potential freelancer Contact information.
+  4. The ability to easily find potential freelancer access to Social links.
 
 ### Design Choices
 
@@ -203,7 +215,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-
+Testing were done on 
 
 ## Deployment
 
