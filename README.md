@@ -90,14 +90,19 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 #### Typography
 - Raleway as an elegant sans-serif typeface family font, were using in this project for the body text.
 - Cinzel font as based on classical proportion and were used for all titles in this project. Business people prefer classical fonts. It's very elegant as well.
-- discuss font size, font types for headers vs buttons vs general text
-- 
+
+- Body font is Raleway 16px. This body font size is common for many project as easy to read and good for design as well.
+- All titles are in Cinzel font’s family. This font is based on classical Proportions and has variety of sizes. H1 as main title is in size of 40px. It is quite big size, but looks very elegant. H2 title is in size of 35px. H3 and H4 titles are in same size of 30px.
+- All fonts are reduced in size for mobile devices to fit into the small screen of devices:
+- H1 = 32px, H2 = 27px, H3 = 25px, H4 = 22px.
+- body font is in same size for mobile devices.
+
 - Font examples are presented below:
-- ![H1 Title Cinzel 40px](assets/images/h1.PNG)
-- ![H2 Title Cinzel 35px](assets/images/h2.PNG)
-- ![H3 Title Cinzel 30px](assets/images/h3.PNG)
-- ![H4 Title Cinzel 30px](assets/images/h4_p.PNG)
-- ![p Paragraph Raleway 16px](assets/images/p.PNG)
+- H1 Cinzel 40px ![H1 Title Cinzel 40px](assets/images/h1.PNG)
+- H2 Cinzel 35px ![H2 Title Cinzel 35px](assets/images/h2.PNG)
+- H3 Cinzel 30px ![H3 Title Cinzel 30px](assets/images/h3.PNG)
+- H4 Cinzel 30px ![H4 Title Cinzel 30px](assets/images/h4_p.PNG)
+- Paragraph (body) Raleway 16px ![p Paragraph Raleway 16px](assets/images/p.PNG)
 - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
 - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
  
