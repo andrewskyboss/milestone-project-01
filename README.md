@@ -93,11 +93,11 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 - discuss font size, font types for headers vs buttons vs general text
 - 
 - Font examples are presented below:
-- ![H1 Title Cinzel 40px](assets/documents/h1.PNG)
-- ![H2 Title Cinzel 35px](assets/documents/h2.PNG)
-- ![H3 Title Cinzel 30px](assets/documents/h3.PNG)
-- ![H4 Title Cinzel 30px](assets/documents/h4_p.PNG)
-- ![p Paragraph Raleway 16px](assets/documents/p.PNG)
+- ![H1 Title Cinzel 40px](assets/images/h1.PNG)
+- ![H2 Title Cinzel 35px](assets/images/h2.PNG)
+- ![H3 Title Cinzel 30px](assets/images/h3.PNG)
+- ![H4 Title Cinzel 30px](assets/images/h4_p.PNG)
+- ![p Paragraph Raleway 16px](assets/images/p.PNG)
 - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
 - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
  
