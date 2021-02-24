@@ -75,7 +75,7 @@ Main goals of website owner are:
   5. The ability to easily find potential employee access to Social links.
   6. The ability to easily download potential employee CV and Cover Letter.
 
-- As a Freelancer's Customer I want:
+- As a Freelancer's Customer I want to have:
   1. The ability to easily find potential freelancer past Experience information.
   2. The ability to easily find potential freelancer Portfolio or work examples.
   3. The ability to easily find potential freelancer Contact information.
