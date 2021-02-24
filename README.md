@@ -251,9 +251,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - Google Fonts:
   - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
   - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
-- CSS Frameworks
-- markdown tables
-- markdown table of contents
+- [markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
 
 ### Programing Languages
 - [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
