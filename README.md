@@ -234,23 +234,30 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-Testing was done for the following devices:
+### Testing was done for the following devices:
 - Windows Desktop, 
 - Windows Laptop, 
 - IPad
 - Android mobile phone.
 
-Following bugs were found:
+### Following bugs were found:
 
-- Portfolio page, when click the logo (name) the page is redirected to a non-existing page instead of staying on the page it’s on. (404 page) - Fixed
-- Portfolio page, were found four JavaScript console errors. – There are four iframes to Adobe portfolios. Errors are from the Adobe server. Not fixed
-- 
-
-
-
+- Portfolio page, when click the logo (name) the page is redirected to a non-existing page instead of staying on the page it’s on. (404 page) - Fixed.
+- Portfolio page, were found four JavaScript console errors. – There are four iframes to Adobe portfolios. Errors are from the Adobe server. - Not fixed.
+- On super wide screens content gets a bit too spread out. - Fixed by adding max-width for the container-fluid class.
+- Footer download button were opening temporary pdf document. – Fixed by adding CV pdf document.
+- On mobile devices, the padding around the heading and logo take up a lot of space. – Fixed by adding media queries to a relevant device size and reducing font size and padding.
+- Footer email scan image have had no alt text. - Fixed.
+- The mobile navigation showed too much of underlying text. - Fixed by adding opacity to the background-color property.
+- Contact Form was too narrow on mobile devices. – Fixed by adding relevant media query and increasing form’s width to 70% and 90%.
+- Contact page and Experience Page, on mobile devices have had an extraordinary amount of space between the hero image and the h1. - Fixed.
+- Mobile menu on click, has the movement to the right at first before being placed below the logo divider bar. – Not fixed. It’s third party Bootstrap JavaScript code.
 
 ## Deployment
 
+
+
 ## Credits
+- Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for support 
 
 
