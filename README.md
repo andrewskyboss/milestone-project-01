@@ -88,14 +88,21 @@ By the [empower-yourself-with-color-psychology.com website](https://www.empower-
 - ![color scheme](assets/documents/ACybossky_color_scheme.png)
 
 #### Typography
-- Raleway as an elegant sans-serif typeface family font, were usin in this project.
+- Raleway as an elegant sans-serif typeface family font, were using in this project for the body text.
+- Cinzel font as based on classical proportion and were used for all titles in this project. Business people prefer classical fonts. It's very elegant as well.
 - discuss font size, font types for headers vs buttons vs general text
-- include screen shots of fonts used and links to the appropriate website ex)
+- 
+- Font examples are presented below:
+- ![H1 Title Cinzel 40px](assets/documents/h1.PNG)
+- ![H2 Title Cinzel 35px](assets/documents/h2.PNG)
+- ![H3 Title Cinzel 30px](assets/documents/h3.PNG)
+- ![H4 Title Cinzel 30px](assets/documents/h4_p.PNG)
+- ![p Paragraph Raleway 16px](assets/documents/p.PNG)
+- [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
 - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
  
 
 #### Images
-
 - On website were used variety of images with open laptop screen. Open laptop looks like an open to opportunity. City views like a coding structure, organised and working properly.
 - As well were used Font Awesome libraries icons to display all major social media. Icons takes small amount off space, but looks very presentable and modern.
 - As well were used Programming languages svg icons to visualize them.
