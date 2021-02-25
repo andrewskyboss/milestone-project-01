@@ -259,13 +259,14 @@ img {
     /*border-bottom: 0px solid transparent;*/
     box-shadow: 1px 1px 10px rgb(0, 0, 0, 20%);
     animation: fade-in-bottom-animation 0.8s cubic-bezier(0.250, 0.450, 0.560, 0.950) both;
+    margin-bottom: 20px;
 }
 .work-history-item:nth-child(odd) {
 	background-color: #F1E4F3;
 }
-.work-history-item:last-child {
+/*.work-history-item:last-child {
 	border-bottom: 0px solid #0A0E29;
-}
+}*/
 .work-dates {
 	text-align: center;
 	padding: 20px;
