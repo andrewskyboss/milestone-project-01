@@ -240,8 +240,6 @@ If you end up not developing some of the features you hoped to implement, you ca
 
 ## Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-- If you included a js file that isn't your own, add it here.
-- If you included a css file that isn't your own, add it here.
 
 - 3rd party technologies to list:
 - [wirefames by Balsamiq](https://balsamiq.com/wireframes/)

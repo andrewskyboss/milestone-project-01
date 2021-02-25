@@ -253,16 +253,18 @@ img {
 	background-color: #FFFFFF;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	border: 1px solid #0A0E29;
+	/*border: 1px solid #0A0E29;*/
 	display: flex;
 	flex-direction: row;
-	border-bottom: 0px solid transparent;
+    /*border-bottom: 0px solid transparent;*/
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 20%);
+    animation: fade-in-bottom-animation 0.8s cubic-bezier(0.250, 0.450, 0.560, 0.950) both;
 }
 .work-history-item:nth-child(odd) {
 	background-color: #F1E4F3;
 }
 .work-history-item:last-child {
-	border-bottom: 1px solid #0A0E29;
+	border-bottom: 0px solid #0A0E29;
 }
 .work-dates {
 	text-align: center;
