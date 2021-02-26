@@ -275,6 +275,11 @@ Features to be implemented in the future:
 - [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 ## Testing
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Was using on this project. Relevant logos are placed on homepage footer
+- [W3C Markup Validation Service](https://jigsaw.w3.org/css-validator/) 
+
+
+
 
 ### Testing was done for the following devices:
 - Windows Desktop, 
