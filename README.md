@@ -73,7 +73,8 @@ The goals of this project are:
 #### User Goals
 
 - The main users of this website are a business people and their representatives.
-Write goals form the perspective of each user group of your website. Common types of users are:
+
+Common types of users are:
 - New customer or unauthenticate user main goal is to get all information they need as quick as possible.
 - Existing customers knows website structure and could wondering for any updates and new information.
 - Admin goal is to get access to the back end information to manage it.
@@ -138,7 +139,8 @@ This project was built based on UX concerns: website should be useful, usable an
 - **Surface plane** - final part of design procedure. The project build in a Classical style. Cinzel and Rylaway fonts gives easy shapes. Shades of Blue, Red and gold are acceptable by the business people as a pleasant and trust. Images are very clear and simple. First look to the website gives a feeling about website owner. Elegant fade in animation gives lightweight and elegance feeling.
 
 #### Colors
-The main inspiration of the colors started from the Oxford Blue color. 
+The main inspiration of the colors started from the Oxford Blue color.
+
 By the [empower-yourself-with-color-psychology.com website](https://www.empower-yourself-with-color-psychology.com/blue-in-business.html#:~:text=Blue%20is%20the%20most%20universally,indicates%20confidence%2C%20reliability%20and%20responsibility.) 
 "Blue is the most universally favored color of all and therefore the safest to use. It relates to trust, honesty and dependability, therefore helping to build customer loyalty. Blue indicates confidence, reliability and responsibility"
 - As a major color, the Oxford Blue (#0A0E29) is responsible to create a trust feeling from an employer to a potential employee. 
@@ -194,7 +196,15 @@ List of elements used on website:
 
 #### Animations and Transitions
 
-- Project has fade in animation for h1 and h2 titles. Its draws attention to them. As well it's shows on About Me modules as a hover animation. 
+- Project has fade in animation for h1 and h2 titles.
+
+As well animation is added to the following elements:
+- Image-links buttons, 
+- Portfolio iframes, 
+- Work history item, 
+- Skill item
+
+ Its draws attention to them. As well it's shows on About Me modules as a hover animation and images have a scale effect. 
 - Hover state is used for all icons and logos. On hover icons are changing color and have a scale transformation.
 - Programming languages logos have a grayscale filter. On hover grayscale filter is equal to zero and images have their original color. As well Logos have scale transformation.
 - As well hover effect is added to top, footer navigation elements and Contact button. All those elements are changing background color.
