@@ -290,6 +290,7 @@ Features to be implemented in the future:
   1. Would be great to have some testimonials.
   2. Navigation is clear and easy to access.
 
+### Lighthouse performance
 ![Lighthouse Performance](assets/images/lighthouse-01.PNG)
 
 ### Testing was done for the following devices:
