@@ -181,7 +181,17 @@ img {
 	flex-direction: row;
 	justify-content: center;
 	justify-items: center;
-	position: relative;
+    position: relative;
+    animation: fade-in-bottom-animation 0.8s cubic-bezier(0.250, 0.450, 0.560, 0.950) both;
+}
+.images-links-3-col-single-col:nth-child(1) {
+	animation-delay: 0.5s;
+}
+.images-links-3-col-single-col:nth-child(2) {
+	animation-delay: 1s;
+}
+.images-links-3-col-single-col:nth-child(3) {
+	animation-delay: 1.5s;
 }
 .images-links-3-col-single-col a {
 	display: flex;
@@ -342,7 +352,8 @@ button.btn:hover,button.btn:active {
 /*---------------- Programming languages module ----------------*/
 .programming-languages-icons {
 	width: 70%;
-	margin-left: 15%;
+    margin-left: 15%;
+    animation: fade-in-bottom-animation 0.8s cubic-bezier(0.250, 0.450, 0.560, 0.950) both 2s;
 }
 .programming-languages-icons a {
 	height: 100%;
