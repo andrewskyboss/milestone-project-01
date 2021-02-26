@@ -255,7 +255,7 @@ Features to be implemented in the future:
 
 ## Technologies Used
 
-- 3rd party technologies to list:
+3rd party technologies to list:
 - Wirefames by Balsamiq to get quick preview of the project
 - Color palette resources to get a visual representation of all branding colors 
 - Images were taken from the Megapixl resources to get illustrations and logos for the website
