@@ -296,10 +296,25 @@ Features to be implemented in the future:
 ### Cross Browser and Cross Device Testing
 
 Testing was done for the following devices:
-- Windows Desktop, 
-- Windows Laptop, 
-- IPad
-- Android mobile phone.
+
+| TOOL / Device  |  BROWSER |  OS |  SCREEN WIDTH |
+|---|---|---|---|
+| Desktop  | Edge  | windows 10  |  1920 x 1080 |
+| Desktop  | Chrome | windows 10  |  1920 x 1080 |
+|  Desktop | Opera  |  windows 10 | 1920 x 1080  |
+|  Desktop | Firefox  |  windows 10 | 1920 x 1080  |
+| Desktop  | IE  | windows 10  |  1920 x 1080 |
+| Laptop  | Edge | windows 10  |  1366 x 768 |
+| Laptop | Chrome  |  windows 10 | 1366 x 768  |
+| Laptop  | Opera  | windows 10  |  1366 x 768 |
+| Laptop  | Firefox  | windows 10  |  1366 x 768 |
+| Laptop  | IE | windows 10  |  1366 x 768 |
+|  MP Samsung S10+ | Chrome  |  android | 1440 x 3040  |
+|  MP Samsung S10+ | Samsung  |  android | 1440 x 3040  |
+|  ipad | Chrome  |  iOs | 1024 x 768  |
+|  ipad | Safari  |  iOs | 1024 x 768  |
+
+
 
 ### Following bugs were detected:
 
