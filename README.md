@@ -259,7 +259,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - Google Fonts:
   - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
   - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
-- [markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
+- [Markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
 
 ### Programing Languages
 - [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
@@ -293,7 +293,12 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Deployment
 
-Deployment
+This project was developed using open source Gitpod automated and ready-to-code development environments and pushed to GitHub.
+To deploy this project, the following steps were taken:
+- Login into GitHub
+- From the list of Repositories select milestone-project-01
+- 
+
 
 
 ## Credits
