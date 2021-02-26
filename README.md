@@ -299,7 +299,7 @@ Features to be implemented in the future:
 - IPad
 - Android mobile phone.
 
-### Following bugs were found:
+### Following bugs were detected:
 
 - Portfolio page, when click the logo (name) the page is redirected to a non-existing page instead of staying on the page it’s on. (404 page) - Fixed.
 - Portfolio page, were found four JavaScript console errors. – There are four iframes to Adobe portfolios. Errors are from the Adobe server. - Not fixed.
@@ -324,10 +324,15 @@ To deploy this project, the following steps were taken:
 - On selected branch the page automatically should refresh.
 - The website is now deployed
 
-How to run project locally
+How to run project locally:
 
-
-
+To clone this project into Gitpod you will need to do following steps:
+1. A Github account
+2. Run any Browser (Chrome as example)
+3. Login into Gitpod account
+4. Navigate to Project GitHub repository
+5. Click the green button “Gitpod” in the top right corner.
+6. This will redirect you to a new Gitpod workspace, to be created from the github code, where you can work locally
 
 ## Credits
 
