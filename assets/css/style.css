@@ -53,6 +53,11 @@ img {
 .header-row {
 	margin-left: 0;
 	margin-right: 0;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	background-color: #FFFFFF;
+	z-index: 2;
 }
 .row {
 	margin-left: 0;
@@ -66,7 +71,7 @@ img {
 	align-items: flex-end;
 	height: 73px;
 	margin-top: -30px;
-	margin-bottom: 30px;
+	/*margin-bottom: 30px;*/
 	border-bottom: 1px solid #2D325A;
 }
 .top-logo {
@@ -91,6 +96,7 @@ img {
 .main-content {
 	padding-left: 5%!important;
 	padding-right: 5%!important;
+	margin-top: 170px;
 }
 .main-content-title {
 	float: left;
@@ -269,6 +275,9 @@ img {
 }
 .work-history-item:nth-child(2) {
 	animation-delay: 1s;
+}
+.work-history-item:nth-child(3) {
+	animation-delay: 1.5s;
 }
 .work-dates {
 	text-align: center;
