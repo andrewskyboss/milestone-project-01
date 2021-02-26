@@ -254,13 +254,12 @@ Features to be implemented in the future:
 - Add coding portfolio (examples)
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - 3rd party technologies to list:
-- [wirefames by Balsamiq](https://balsamiq.com/wireframes/)
-- [Color palette resources](https://coolors.co)
-- [Images were taken from the Megapixl resources](https://www.megapixl.com)
-- Icons [Font Awesome](https://fontawesome.com/v4.7.0/)
+- [Wirefames by Balsamiq](https://balsamiq.com/wireframes/) to get quick preview of the project
+- [Color palette resources](https://coolors.co) to get a visual representation of all branding colors 
+- [Images were taken from the Megapixl resources](https://www.megapixl.com) to get illustrations and logos for the website
+- Icons [Font Awesome](https://fontawesome.com/v4.7.0/) to represent social media in graphic way
 - Google Fonts:
   - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
   - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
