@@ -297,7 +297,14 @@ This project was developed using open source Gitpod automated and ready-to-code 
 To deploy this project, the following steps were taken:
 - Login into GitHub
 - From the list of Repositories select milestone-project-01
-- 
+- From the top menu items, select last element “Settings”
+- Scroll down to the GitHub Pages section.
+- Under title “Source” click drop down menu and select andrewskyboss/gitpod-setup
+- On selected branch the page automatically should refresh.
+- The website is now deployed
+
+How to run project locally
+
 
 
 
