@@ -293,7 +293,9 @@ Features to be implemented in the future:
 ### Lighthouse performance
 ![Lighthouse Performance](assets/images/lighthouse-01.PNG)
 
-### Testing was done for the following devices:
+### Cross Browser and Cross Device Testing
+
+Testing was done for the following devices:
 - Windows Desktop, 
 - Windows Laptop, 
 - IPad
@@ -336,7 +338,8 @@ To clone this project into Gitpod you will need to do following steps:
 
 ## Credits
 
-- My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help and invaluable advices.
+### Acknowledgments
+- My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help in testing, review and invaluable advices.
 
 
 
