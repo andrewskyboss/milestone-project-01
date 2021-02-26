@@ -256,14 +256,13 @@ Features to be implemented in the future:
 ## Technologies Used
 
 - 3rd party technologies to list:
-- [Wirefames by Balsamiq](https://balsamiq.com/wireframes/) to get quick preview of the project
-- [Color palette resources](https://coolors.co) to get a visual representation of all branding colors 
-- [Images were taken from the Megapixl resources](https://www.megapixl.com) to get illustrations and logos for the website
-- Icons [Font Awesome](https://fontawesome.com/v4.7.0/) to represent social media in graphic way
-- Google Fonts:
-  - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
-  - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
-- [Markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
+- Wirefames by Balsamiq to get quick preview of the project
+- Color palette resources to get a visual representation of all branding colors 
+- Images were taken from the Megapixl resources to get illustrations and logos for the website
+- Font Awesome Icons to represent social media in graphic way
+- Google Fonts
+- Markdown table generator
+- Markdown table of contents
 
 ### Programing Languages
 - [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
@@ -273,6 +272,18 @@ Features to be implemented in the future:
 
 ### Frameworks and Extensions
 - [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+### Fonts
+- Google Fonts:
+  - [Cinzel font can be found here](https://fonts.google.com/specimen/Cinzel)
+  - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
+
+### Tools
+- [Wirefames by Balsamiq](https://balsamiq.com/wireframes/) to get quick preview of the project
+- [Color palette resources](https://coolors.co) to get a visual representation of all branding colors 
+- [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
+- [Markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
+
 
 ## Testing
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was using on this project. Relevant logos are placed on homepage footer
@@ -352,6 +363,11 @@ To clone this project into Gitpod you will need to do following steps:
 6. This will redirect you to a new Gitpod workspace, to be created from the github code, where you can work locally
 
 ## Credits
+
+### Media
+
+- [Images were taken from the Megapixl resources](https://www.megapixl.com)
+- Icons [Font Awesome](https://fontawesome.com/v4.7.0/) 
 
 ### Acknowledgments
 - My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help in testing, review and invaluable advices.
