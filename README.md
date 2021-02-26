@@ -290,6 +290,7 @@ Features to be implemented in the future:
   1. Would be great to have some testimonials.
   2. Navigation is clear and easy to access.
 
+[Lighthouse Performance](andrewskyboss.github.io-20210226T211509.html)
 
 ### Testing was done for the following devices:
 - Windows Desktop, 
