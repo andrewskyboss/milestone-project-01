@@ -245,8 +245,13 @@ The project has implemented following features:
 Header navigation is different on desktop and mobile versions.
 
 #### Future Features
-Use this section to discuss plans for additional features to be implemented in the future:
-If you end up not developing some of the features you hoped to implement, you can include those in this section.
+
+Features to be implemented in the future:
+- Add more design elements
+- Add interactivity possibility
+- Testimonials section or page
+- More High quality images
+- Add coding portfolio (examples)
 
 ## Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
