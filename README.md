@@ -374,7 +374,7 @@ To clone this project into Gitpod you will need to do following steps:
 
 - [Images were taken from the Megapixl resources](https://www.megapixl.com)
 - Icons [Font Awesome](https://fontawesome.com/v4.7.0/)
-- [Animation generator](https://animista.net/){:target="_blank"}
+- [Animation generator](https://animista.net/)
 
 ### Acknowledgments
 - My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help in testing, review and invaluable advices.
