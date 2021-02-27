@@ -284,10 +284,11 @@ Features to be implemented in the future:
   - [Raleway font can be found here](https://fonts.google.com/specimen/Raleway)
 
 ### Tools
-- [Wirefames by Balsamiq](https://balsamiq.com/wireframes/) to get quick preview of the project
-- [Color palette resources](https://coolors.co) to get a visual representation of all branding colors 
+- [Wirefames by Balsamiq](https://balsamiq.com/wireframes/) 
+- [Color palette resources](https://coolors.co) 
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
 - [Markdown table of contents](http://ecotrust-canada.github.io/markdown-toc/)
+- [Animation generator](https://animista.net/)
 
 
 ## Testing
@@ -372,7 +373,8 @@ To clone this project into Gitpod you will need to do following steps:
 ### Media
 
 - [Images were taken from the Megapixl resources](https://www.megapixl.com)
-- Icons [Font Awesome](https://fontawesome.com/v4.7.0/) 
+- Icons [Font Awesome](https://fontawesome.com/v4.7.0/)
+- [Animation generator](https://animista.net/)
 
 ### Acknowledgments
 - My appreciate and Big Thank You to my Mentor [Malia Havlicek](https://code-institute-room.slack.com/team/UERRFE54G) for help in testing, review and invaluable advices.
