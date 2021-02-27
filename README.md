@@ -32,14 +32,19 @@ Andrej Cybovskij
   * [Technologies Used](#technologies-used)
     + [Programing Languages](#programing-languages)
     + [Frameworks and Extensions](#frameworks-and-extensions)
+    + [Fonts](#fonts)
+    + [Tools](#tools)
   * [Testing](#testing)
-    + [Testing was done for the following devices:](#testing-was-done-for-the-following-devices-)
-    + [Following bugs were found:](#following-bugs-were-found-)
+    + [Testing stories from UX perspectives:](#testing-stories-from-ux-perspectives-)
+    + [Lighthouse performance](#lighthouse-performance)
+    + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+    + [Following bugs were detected:](#following-bugs-were-detected-)
   * [Deployment](#deployment)
   * [Credits](#credits)
+    + [Media](#media)
+    + [Acknowledgments](#acknowledgments)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 - Below is a picture of site that shows it in responsive states. 
 [link to check a website to be responsive](http://ami.responsivedesign.is)
