@@ -221,7 +221,6 @@ The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) s
 - Wireframes links are presented below:
 - [Link to a Wireframes for a Desctop view](assets/documents/A.Cybovskij-Desctop.pdf)
 - [Link to a Wireframes for Tablet and Mobile views ](assets/documents/A.Cybovskij-Tablet-mobile.pdf)
-- <a href="/assets/documents/desctop.pdf" title="desctop"  target="_blank" rel="noopener">Desctop</a>
 
 ### Features
 
